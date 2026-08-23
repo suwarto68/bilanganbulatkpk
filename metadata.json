@@ -1,0 +1,6 @@
+{
+  "name": "CBT ANBK Matematika SMP",
+  "description": "Aplikasi Ujian Online CBT ANBK Matematika SMP Fase D (Bilangan Bulat, FPB, KPK) dengan 4 tipe soal, integrasi Google Spreadsheet, dan panel admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
